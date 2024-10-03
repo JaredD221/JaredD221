@@ -2,7 +2,7 @@
 > Hello world!
 
 # Biography 
-<blockquote>As a computer science major I am interested in game desing and game developement, I hope to be able to creat my own game where the main character will be my pet cat Mayo. Currently I am studing at Eastern Washington University and I plan to be graduated by 2026.</blockquote>
+<blockquote>As a computer science major I am interested in game desing and game developement, I hope to be able to creat my own game. Currently I am studing at Eastern Washington University and I plan to be graduated by 2026.</blockquote>
 
   
 [Github Profile](https://github.com/JaredD221)
