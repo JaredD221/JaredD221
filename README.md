@@ -1,8 +1,8 @@
 # Jared Diaz
-> Hey there chooms! Preem to met ya!
+> Yo chooms, Preem to met ya!
 
 # Biography 
-<blockquote>My name is Jared Diaz and as a computer science major I am interested in game desing and game developement, I hope to be able to creat my own game someday where the main character may possibly be my pet cat Mayo. Currently I am studing at Eastern Washington University and I plan to be graduated by 2026.</blockquote>
+<blockquote>My name is Jared Diaz and I am a computer science major. My interest for my studies include game desing, game developement,and web development. With that knowledge I hope to be able to creat my own game someday whether it be simple or complex as long as the game is fun that will fine by me. Currently I am studing at Eastern Washington University and I plan to be graduated by 2026, After graduation I plan to find a position with a game development team whether it be big or small.</blockquote>
 
   
 [Github Profile](https://github.com/JaredD221)
@@ -13,7 +13,7 @@
 - SQL 
 - c and unix
 - gaming
-- simple cooking
+- simple cooking... so far
 
 <!--
 **JaredD221/JaredD221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
